@@ -34,6 +34,13 @@ You can download both the full Unity project and a playable demo from the follow
 
 🔗 [Download KrostyBattle Project and Demo](https://drive.google.com/drive/folders/1elld2Ja6cdoJ5MQMc_sIxjWRFpTxDGlg?usp=sharing)
 
+### 📁 Folder Contents
+
+- `GameDevProject.zip` → contains the complete Unity project with all scenes, scripts, and assets
+- `Krosty Battle.zip` → contains the standalone playable demo for Windows
+
+Simply unzip and run the executable in the demo folder, or open the Unity project in the editor to explore the code and assets.
+
 ---
 
 ## 📜 License
@@ -46,5 +53,5 @@ All contents are original or based on free/open assets.
 ## 👤 Author
 
 **Antonio Marroffino**  
-[GitHub](https://github.com/antoniomarroffino)  
-[LinkedIn](https://www.linkedin.com/in/antoniomarroffino)
+- [GitHub](https://github.com/antoniomarroffino)  
+- [LinkedIn](https://www.linkedin.com/in/antoniomarroffino)
